@@ -1,7 +1,7 @@
 # API-Github
 
 
-durante o aprendizado de como consumir dados de uma API da Resilia, nos foi dado a tarefa de criar uma página onde que busca dados do GitHub, Nome do
+Durante o aprendizado de como consumir dados de uma API da Resilia, nos foi dado a tarefa de criar uma página onde que busca dados do GitHub, Nome do
 usuário, nome dos repositórios, link dos repositórios e linguagem de programação do
 repositório;
 
