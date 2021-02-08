@@ -10,6 +10,6 @@ repositório;
 Link: https://eliveltonsouzadev.github.io/API-Github/
 
 
-![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/pg.png)
+![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/img/pg.png)
 
 ![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/mobile.jpg)
