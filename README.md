@@ -5,7 +5,7 @@ Durante o aprendizado de como consumir dados de uma API da Resilia, nos foi dado
 usuário, nome dos repositórios, link dos repositórios e linguagem de programação do
 repositório;
 
-**o projeto foi estruturado utilizando MVC, classes e orientação a objetos e  arrow functions;**
+**o projeto foi estruturado utilizando MVC, classes e orientação a objetos e  arrow functions e desenvolvimento de versão mobile;**
 
 Link: https://eliveltonsouzadev.github.io/API-Github/
 
