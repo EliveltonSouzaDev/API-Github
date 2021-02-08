@@ -12,4 +12,4 @@ Link: https://eliveltonsouzadev.github.io/API-Github/
 
 ![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/pg.png)
 
-![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/mobile.png)
+![](https://github.com/EliveltonSouzaDev/API-Github/blob/master/mobile.jpg)
