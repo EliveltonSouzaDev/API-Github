@@ -20,7 +20,7 @@ let btn = document.getElementById('submit');
 let gitHub = new gitController();
 
 btn.addEventListener('click', () => {
-  
-    gitHub.buscarInfo(profile)
+    gitHub.buscarInfo(profile);
+
 
 });

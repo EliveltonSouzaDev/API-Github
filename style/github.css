@@ -25,9 +25,10 @@ header {
 
 #logo {
     margin: 2% 2% 2% 5%;
-    width: 40%;
+    width: 30%;
     border-radius: 5px;
 }
+
 
 input {
     border-radius: 5px;
@@ -62,6 +63,7 @@ input {
 
 #main {
     min-height: 100%;
+    align-items: center;
 }
 
 footer {
